@@ -6,6 +6,7 @@
 5. Email Office 365        : 123190083@member.maribelajar.org
 6. Email Outlook Personal  : mrizqi0153@outlook.com
 7. LinkedIn                : https://www.linkedin.com/in/muhammad-r-15750a104/
+8. Link Stream Video       : https://web.microsoftstream.com/video/9890f41c-d526-4825-be65-1ffd8ba3237f
 
 # Prediksi Harga Bangunan Untuk Kebutuhan Bisnis Real Estate
 MariBisnis ingin mengetahui Harga bangunan untuk kebutuhan bisnis Real Estate. Bisnis Real Estate ini merupakan bisnis properti bangunan, dimana bila bisa membeli bangunan yang dilelang dengan harga murah dapat diolah menjadi bisnis yang menguntungkan.
