@@ -1,0 +1,9 @@
+type: DataFrameDirectory
+visualization:
+- type: Visualization
+  path: data.visualization
+extension: {}
+format: CSV
+data: data.csv
+samples: _samples.json
+schema: schema/_schema.json

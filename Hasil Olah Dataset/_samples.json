@@ -1,0 +1,53 @@
+[
+  {
+    "price": 258000.0,
+    "bedrooms": 3.0,
+    "bathrooms": 1.75,
+    "sqft_living": 1620.0,
+    "sqft_lot": 7540.0,
+    "floors": 1.0,
+    "condition": 3.0,
+    "grade": 7.0,
+    "sqft_above": 1310.0,
+    "sqft_basement": 310.0,
+    "yr_built": 1988.0,
+    "yr_renovated": 0.0,
+    "sqft_living15": 1580.0,
+    "sqft_lot15": 7540.0,
+    "Scored Labels": 280668.6124867414
+  },
+  {
+    "price": 416500.0,
+    "bedrooms": 3.0,
+    "bathrooms": 1.0,
+    "sqft_living": 1100.0,
+    "sqft_lot": 4184.0,
+    "floors": 1.0,
+    "condition": 4.0,
+    "grade": 7.0,
+    "sqft_above": 1100.0,
+    "sqft_basement": 0.0,
+    "yr_built": 1965.0,
+    "yr_renovated": 0.0,
+    "sqft_living15": 1630.0,
+    "sqft_lot15": 4366.0,
+    "Scored Labels": 253663.03399611567
+  },
+  {
+    "price": 945000.0,
+    "bedrooms": 2.0,
+    "bathrooms": 2.5,
+    "sqft_living": 2540.0,
+    "sqft_lot": 7089.0,
+    "floors": 2.0,
+    "condition": 3.0,
+    "grade": 9.0,
+    "sqft_above": 2540.0,
+    "sqft_basement": 0.0,
+    "yr_built": 2004.0,
+    "yr_renovated": 0.0,
+    "sqft_living15": 1330.0,
+    "sqft_lot15": 7089.0,
+    "Scored Labels": 733486.8662754234
+  }
+]
